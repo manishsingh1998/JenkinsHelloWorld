@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		System.out.println("This is the first program to be pushed into jenkins");
+		System.out.println("Checking Changes");
 	}
 
 }
